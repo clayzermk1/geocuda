@@ -1,4 +1,3 @@
-geocuda
-=======
+# geocuda #
 
-CUDA acclerated geospatial library in C++
+CUDA acclerated geospatial library in C++.
